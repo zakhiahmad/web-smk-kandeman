@@ -107,7 +107,7 @@ $tenaga_pendidik = [
         "Bahasa Inggris" => [
             ['nama' => 'ETTY SETYANINGTYAS, S.S.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'etty.jpg'],
             ['nama' => 'YULI RAHAYU, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'yuli.jpg'],
-            ['nama' => 'IDA HERLINA, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'ida_herlina.jpg'],
+            ['nama' => 'IDA HERLINA, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'ida.jpg'],
             ['nama' => 'WARDOYO, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'wardoyo.jpg'],
             ['nama' => 'HEKSI INDARTI, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'heksi.jpg'],
             ['nama' => 'IDA ROCHMAH YULIA, S.Pd.', 'jabatan' => 'Guru Bahasa Inggris', 'foto' => 'ida_rochmah.jpg'],
@@ -118,7 +118,7 @@ $tenaga_pendidik = [
             ['nama' => 'ANGGARA INDRA PRASETYADI, S.Pd.', 'jabatan' => 'Guru PJOK', 'foto' => 'anggara.jpg'],
         ],
         "Sejarah & Seni Budaya" => [
-            ['nama' => 'WAHYU DWI YULIANTI, S.Pd.', 'jabatan' => 'Guru Sejarah', 'foto' => 'wahyu_dwi.jpg'],
+            ['nama' => 'WAHYU DWI YULIANTI, S.Pd.', 'jabatan' => 'Guru Sejarah', 'foto' => 'wahyu.jpg'],
             ['nama' => 'SOLEKHA, S.Pd.', 'jabatan' => 'Guru Sejarah / Staf Humas', 'foto' => 'solekha.jpg'],
             ['nama' => 'PUGUH ARIO SEMBODO, S.Pd.', 'jabatan' => 'Guru Seni Budaya / Staf Kurikulum', 'foto' => 'puguh.jpg'],
             ['nama' => 'SIGIT PURNOMO, S.Pd.', 'jabatan' => 'Guru Seni Budaya', 'foto' => 'sigit-pur.jpg'],
